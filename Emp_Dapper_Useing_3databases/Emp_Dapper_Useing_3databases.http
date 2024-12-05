@@ -1,0 +1,6 @@
+@Emp_Dapper_Useing_3databases_HostAddress = http://localhost:5206
+
+GET {{Emp_Dapper_Useing_3databases_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
